@@ -9,6 +9,7 @@ Repository: https://github.com/ozyjay/AbletonOps
 - [Move drum kits: inventory, limitations and house audition guide](docs/move/drum-kits.md)
 - [Groove programming](docs/move/groove-programming.md)
 - [Modern groovy bass lines — Move and Live companion](docs/move/groovy-bass-lines.md)
+- [17 bass patterns — video-derived timestamped notes](docs/move/17-bass-patterns-video-notes.md)
 - [Move workflow](docs/move/workflow.md)
 - [Development roadmap and API boundaries](docs/development/roadmap.md)
 - [Connect this repository to the Ableton project](docs/integrations/chatgpt-project.md)
