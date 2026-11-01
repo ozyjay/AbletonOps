@@ -1,0 +1,22 @@
+# Local secrets and generated dependencies
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Large music assets stay outside Git until deliberately managed
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+*.als
+*.ablbundle
+*.ablpresetbundle
+
+# Local OS/editor files
+Thumbs.db
+.DS_Store
