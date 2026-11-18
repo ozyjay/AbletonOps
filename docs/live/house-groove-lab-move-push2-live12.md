@@ -111,7 +111,7 @@ For more flexibility, see Live manual **Using Grooves** (chapter 14), **Editing 
 
 ## Sources and scope
 
-**Free PML resources (web-verified on 18 November 2026; first three links below were located through indexed search content where direct page fetching failed):**
+**Free PML resources (checked 18 November 2026; the 4-level, 17-bassline and 3-setup pages were verified using indexed public page content where direct fetching failed):**
 - [How to Make a Groove in 4 Levels: Basic to Pro](https://www.productionmusiclive.com/blogs/news/how-to-make-a-groove-in-4-levels)
 - [Humanizing MIDI Drums in Ableton (3 Essential Factors)](https://www.productionmusiclive.com/blogs/news/humanizing-midi-drums)
 - [We Rebuilt 17 Famous Bassline Patterns](https://www.productionmusiclive.com/blogs/news/bassline-patterns)
