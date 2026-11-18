@@ -6,6 +6,8 @@ Repository: https://github.com/ozyjay/AbletonOps
 
 ## Start here
 
+- [House groove lab: Move, Push 2 and Live 12 (PML-informed)](docs/live/house-groove-lab-move-push2-live12.md)
+
 - [Move drum kits: inventory, limitations and house audition guide](docs/move/drum-kits.md)
 - [Groove programming](docs/move/groove-programming.md)
 - [Modern groovy bass lines — Move and Live companion](docs/move/groovy-bass-lines.md)
